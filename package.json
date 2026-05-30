@@ -1,9 +1,9 @@
 {
-  "name": "ninja",
+  "name": "fox",
   "type": "module",
   "version": "0.1.0",
   "private": true,
-  "description": "Silent Ninja Companion — a small desktop friend",
+  "description": "A fox desktop companion demo",
   "author": "ToriiLabs",
   "license": "Proprietary",
   "main": "dist-electron/main.js",
